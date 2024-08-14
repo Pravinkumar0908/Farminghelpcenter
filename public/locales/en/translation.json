@@ -1,0 +1,16 @@
+{
+    "navbar": {
+      "home": "Home",
+      "market": "Market",
+      "weather": "Weather",
+      "farming": "Farming",
+      "services": "Services",
+      "govtschemes": "Schemes"
+
+    },
+    "about": {
+      "heading": "About Us",
+      "content": "We provide comprehensive information and services to farmers."
+    }
+  }
+  

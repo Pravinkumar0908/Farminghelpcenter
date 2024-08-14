@@ -1,0 +1,22 @@
+MarketContainer {
+    width: 80%;
+    /* margin: auto; */
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.category {
+    margin-top: 20px;
+}
+
+.category h2 {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.report {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+}

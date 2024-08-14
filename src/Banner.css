@@ -1,0 +1,28 @@
+.banner-container {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  margin-top: 75px;
+}
+
+.banner-image {
+  width: 100%;
+  height: 650px;
+  object-fit: cover;
+}
+
+/* Ensure the slider doesn't overflow on smaller screens */
+.slick-slider {
+  width: 100%;
+}
+
+/* Adjust dots position for better visibility on smaller screens */
+.slick-dots {
+  bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .slick-dots {
+    bottom: 5px;
+  }
+}
